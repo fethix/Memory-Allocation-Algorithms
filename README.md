@@ -39,7 +39,7 @@ After compiling, run the programs as follows:
 ```
 #### Best Fit
 ```bash
-gcc -o first_fit first_fit.c
+./best_fit
 ```
 # Author
 - harchaoui fethi
