@@ -10,7 +10,7 @@ The First Fit algorithm allocates memory by searching for the first available bl
 
 ### 2. Best Fit
 
-The Best Fit algorithm allocates memory by searching for the smallest available block of memory that is large enough to accommodate the requested size. It selects the block that minimizes internal fragmentation. For more infromations [click here](https://www.geeksforgeeks.org/best-fit-allocation-in-operating-system/).
+The Best Fit algorithm allocates memory by searching for the smallest available block of memory that is large enough to accommodate the requested size. It selects the block that minimizes internal fragmentation. For more informations [click here](https://www.geeksforgeeks.org/best-fit-allocation-in-operating-system/).
 
 ## Getting Started
 
